@@ -1,4 +1,4 @@
-# Restaurant-WESITE
+# Restaurant-WEBSITE
 
 -Built completely from scratch without using any AI tools.
 -Contains my own images and content.
